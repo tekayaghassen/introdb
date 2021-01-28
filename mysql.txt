@@ -1,0 +1,9 @@
+Mysql is a RDBMS or a DBMS, in these databases you will be able to store information and then be able to 
+modify and retrieve it in different ways. it is that mysql is relational because the data within mysql is 
+stored as an array also called table.tables are defined in two ways: the columns that are called fields 
+here, these columns allow to identify the differences.
+
+
+-Different data : the data you need to collect for an order is different from that of a customer.
+-Duplicate data : every customer has a name, and every order also has a customer's name. The processing of 
+this duplicate data becomes messy.

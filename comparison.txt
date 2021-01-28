@@ -1,0 +1,7 @@
+Both of these being types of SQL a question may arise about what is the difference between both 
+SQL Server vs PostgreSQL. Microsoft SQL server is a database management and analysis system which 
+is mainly used for e-commerce, line of business and different data warehousing solutions. PostgreSQL, 
+on the other hand, is an advanced object-relational database management system which provides 
+support to the extended subset of SQL standards including different transactions, foreign keys, 
+subqueries, triggers, and different user-defined types and functions.
+MySQL is a more popular relational database management system; MySQL is not extensible and the programming language is SQL.

@@ -1,0 +1,13 @@
+It is a software, developed by Microsoft, which is implemented from the specification of RDBMS. 
+It is also an ORDBMS.
+It is platform dependent.
+It is both GUI and command based software.
+It supports SQL (SEQUEL) language which is an IBM product, non-procedural, common database and case insensitive language.
+
+--Usage of SQL Server
+To create databases.
+To maintain databases.
+To analyze the data through SQL Server Analysis Services (SSAS).
+To generate reports through SQL Server Reporting Services (SSRS).
+To carry out ETL operations through SQL Server Integration Services (SSIS).
+
